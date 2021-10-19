@@ -1,0 +1,5 @@
+# Administrador de gestion de sistema de facturacion - Backend
+Ejecutar el siguiente codigo para generar las dependencias
+```
+npm install
+```
